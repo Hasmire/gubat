@@ -10,6 +10,7 @@ ipython_config.py
 
 # Dataset
 ForestNetDataset/*
+data/*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
