@@ -1,0 +1,22 @@
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Dataset
+ForestNetDataset/*
+data/*
+ForestNetDataset.zip
+
+.venv/*
+myenv/
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#JupyterNotebooks
