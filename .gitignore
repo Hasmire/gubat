@@ -12,7 +12,7 @@ ipython_config.py
 ForestNetDataset/*
 data/*
 ForestNetDataset.zip
-
+input/* 
 .venv/*
 myenv/
 
