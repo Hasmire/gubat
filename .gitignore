@@ -16,6 +16,9 @@ input/*
 .venv/*
 myenv/
 
+# MacOS
+.DS_Store
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
